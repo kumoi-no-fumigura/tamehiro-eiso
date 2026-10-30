@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamehiro-eiso",
  "yomi": "さきのだいなごんためひろきょうえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（詠草）",
+  "era": "室町後期",
+  "author": "冷泉為広",
+  "desc": "冷泉為広の詠草。永正元年以後の禁裏月次会・将軍家の会・自邸の月次会などの詠を日付順に記し、会の読師・講師などの記録も添える。"
+ },
  "editions": [
   {
    "pid": "936505",
